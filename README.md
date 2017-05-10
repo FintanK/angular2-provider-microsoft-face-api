@@ -1,2 +1,3 @@
 # angular2-provider-microsoft-face-api
-An Angular 2 Provider Class that allows you to work with the Microsoft Face API
+
+This is a custom Angular 2 provider class (Typescript) that I wrote to allow you to work with the Microsoft Face API for face detection.
